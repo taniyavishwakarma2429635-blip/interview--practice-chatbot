@@ -1,0 +1,14 @@
+/* AI Interview Bot - Style */
+.stButton > button {
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+.stButton > button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+.stChatMessage {
+    border-radius: 12px;
+    margin-bottom: 8px;
+}
